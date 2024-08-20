@@ -1,6 +1,9 @@
 <h1 align="center">Hi there!<br>I'm Sama Wahidee<img src="https://media.tenor.com/4DXFPJ_AuogAAAAi/line-friends.gif" alt="git-icon" width="70" height="80"/> </h1>
 <h3 align="center">A Computer Science student at Birzeit University, passionate about coding, problem-solving, and software development</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sama-wahidee&label=Profile%20views&color=0e75b6&style=flat" alt="sama-wahidee" />
+</p>
 
 - 🔭 I’m currently working on [Task Management System](https://github.com/Sama-wahidee/TaskManagementSystem)
   
