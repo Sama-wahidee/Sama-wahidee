@@ -73,7 +73,7 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sama-wahidee&show_icons=true&locale=en&layout=compact&theme=dark" alt="sama-wahidee" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sama-wahidee&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" alt="sama-wahidee" />
 </p>
 <br>
 <p align="center">
@@ -83,4 +83,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sama-wahidee&theme=dark" alt="sama-wahidee" />
 </p>
----
