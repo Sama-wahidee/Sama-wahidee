@@ -4,14 +4,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sama-wahidee&label=Profile%20views&color=0e75b6&style=flat" alt="sama-wahidee" />
 </p>
-
-- 🔭 I’m currently working on [Task Management System](https://github.com/Sama-wahidee/TaskManagementSystem)
   
-- 🌱 Learning: **C#, .NET Core, ASP.NET, Entity Framework**
-
 - 👨‍💻 Explore all my projects at: [GitHub Portfolio](https://github.com/Sama-wahidee)
 
-- 💬 Ask me about: **Java, C, HTML, CSS, Python, Android Development, MySQL**
+- 💬 Ask me about: **Java, C, HTML, CSS, Python, Android Development, MySQL, C#, ASP.NET, Node.js, React**
 
 - 📫 Reach me: **samawahidee@gmail.com**
 
